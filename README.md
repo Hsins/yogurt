@@ -22,8 +22,8 @@
 
 ## Usage
 
-```
-PS> scoop bucket add peach https://github.com/Hsins/yogurt
+```powershell
+PS> scoop bucket add yogurt https://github.com/Hsins/yogurt
 PS> scoop install yogurt/<APPLICATION>
 ```
 
