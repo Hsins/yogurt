@@ -1,7 +1,7 @@
 {
   "version": "8.6.7",
-  "homepage": "https://www.irontcl.com/",
   "description": "A binary distribution of Tcl and Tk by Eyrie Solutions. Providing signed binaries for Windows, based on the latest official release",
+  "homepage": "https://www.irontcl.com/",
   "license": "Commercial Licenses",
   "architecture": {
     "32bit": {

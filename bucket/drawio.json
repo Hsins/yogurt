@@ -1,7 +1,7 @@
 {
   "version": "15.8.7",
-  "homepage": "https://github.com/jgraph/drawio-desktop",
   "description": "A diagramming and whiteboarding desktop app based on Electron that wraps the core draw.io editor.",
+  "homepage": "https://github.com/jgraph/drawio-desktop",
   "license": "Apache-2.0",
   "url": "https://github.com/jgraph/drawio-desktop/releases/download/v15.8.7/draw.io-15.8.7-windows-no-installer.exe",
   "hash": "eebee059a3d126009d3e7a239856df9ee446b1bd7bf1ccf565569c8921907528",
