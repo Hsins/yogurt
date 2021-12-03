@@ -20,7 +20,7 @@
   ],
   "bin": ["bin\\tclsh.exe", "bin\\wish.exe"],
   "checkver": {
-    "github": "https://www.irontcl.com/",
+    "url": "https://www.irontcl.com/",
     "regex": "Tcl/Tk ([\\w.-]+) \\(x64\\)"
   },
   "autoupdate": {

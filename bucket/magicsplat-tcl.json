@@ -31,7 +31,7 @@
     ["bin\\tkcon.tkapp", "Tkcon enhanced console"]
   ],
   "checkver": {
-    "github": "https://sourceforge.net/projects/magicsplat/files/magicsplat-tcl/",
+    "url": "https://sourceforge.net/projects/magicsplat/files/magicsplat-tcl/",
     "regex": "tcl-(?<tclver>[\\d.-]+)-installer-([\\d.-]+)-x64\\.msi"
   },
   "autoupdate": {
