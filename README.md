@@ -48,7 +48,7 @@ Add this bucket for installing extra applications.
 
 - [`drawio`](./bucket/drawio.json): A diagramming and whiteboarding desktop app based on Electron that wraps the core draw.io editor.
 - [`irontcl`](./bucket/irontcl.json): A binary distribution of Tcl and Tk by Eyrie Solutions. Providing signed binaries for Windows, based on the latest official release.
-- [`Komodo IDE`](./bucket/KomodoIDE.json):An universal IDE provides more robust functionality such as debugging, unit testing, code refactoring and code profiling.
+- [`komodoide`](./bucket/KomodoIDE.json):An universal IDE provides more robust functionality such as debugging, unit testing, code refactoring and code profiling.
 
 ## References
 
